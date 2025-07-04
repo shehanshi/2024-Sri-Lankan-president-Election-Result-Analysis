@@ -50,11 +50,11 @@ The Power BI report consists of **five interactive pages**:
 This dashboard helps users understand voting patterns, turnout rates, and political trends of the 2024 election.
 
 ## 📷 Dashboard Preview
-![Dashboard Preview](Screenshot 2025-07-04 103146.png)
-![Dashboard Preview](Screenshot 2025-07-04 103238.png)
-![Dashboard Preview](Screenshot 2025-07-04 103318.png)
-![Dashboard Preview](Screenshot 2025-07-04 103335.png)
-![Dashboard Preview](Screenshot 2025-07-04 103359.png)
+![Screenshot 2025-07-04 103146](https://github.com/user-attachments/assets/35aa9be5-92cc-4b53-96e0-2d1fa127f4f8)
+![Screenshot 2025-07-04 103238](https://github.com/user-attachments/assets/58203f1c-0cb1-4d8a-b6e5-608bf2186bf9)
+![Screenshot 2025-07-04 103318](https://github.com/user-attachments/assets/674faf68-f0e7-4ecc-b644-7791f0f85cbe)
+![Screenshot 2025-07-04 103335](https://github.com/user-attachments/assets/3e33e5c1-a0d6-4aaa-9e00-3e5bff75c109)
+![Screenshot 2025-07-04 103359](https://github.com/user-attachments/assets/7dd753fa-3d03-49ac-a19e-bc787086dc82)
 
 ## 💡 Purpose & Learning Outcome
 
